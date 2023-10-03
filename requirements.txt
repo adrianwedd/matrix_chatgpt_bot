@@ -46,6 +46,6 @@ sniffio==1.3.0
 tiktoken==0.3.3
 toml==0.10.2
 unpaddedbase64==2.1.0
-urllib3==1.26.15
+urllib3==1.26.17
 wcwidth==0.2.6
 yarl==1.8.2
