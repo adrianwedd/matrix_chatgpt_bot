@@ -29,7 +29,7 @@ Markdown==3.4.3
 matrix-nio[e2e]==0.20.2
 multidict==6.0.4
 peewee==3.16.0
-Pillow==9.5.0
+Pillow==10.0.1
 pycparser==2.21
 pycryptodome==3.17
 pycryptodomex==3.17
